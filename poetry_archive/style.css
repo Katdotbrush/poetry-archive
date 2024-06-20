@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    font-family: 'Tiny5';
+    color: rgba(128, 255, 0, 0.979);
+
+    text-align: center;
+}
+
+h1 {
+    font-family: 'GrapeSoda';
+    font-size: 75px;
+    padding: 20px;
+    padding-top: 80px;
+    margin: 10px;
+
+}
+
+h4 {
+    padding-bottom: 40px;
+}
+
+#poem-heading {
+    margin-inline: 150px;
+
+    background-color: chartreuse;
+    color: black;
+}
+
+.poem {
+    color: rgb(105, 105, 105);
+
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+    text-wrap: wrap;
+}
+
+.poem:hover {
+    transition: 0.3s;
+    color: chartreuse; 
+}
+
+a {
+    border-top: 10px;
+    color: chartreuse;
+    font-size: 20px;
+    font-style: italic;
+}
+
